@@ -1,5 +1,4 @@
-# table-embeddings
-CSCI 699 course project: Attribute semantic labeling for data on the web
+# CSCI 699 course project: Attribute semantic labeling for data on the web
 
 Use the following to run different models from src directory:
 ```bash
@@ -13,4 +12,5 @@ List of models can be found:
    * 3: TFIDF (should be an attribute similarity method)
    
 Embedding pretrained models can be downloaded from: https://nlp.stanford.edu/projects/glove/
+
 Pickled data files can be downloaded from: https://drive.google.com/file/d/1Hs1hCf4MVy38Kt8ecFCCaK1c_1amEopZ/view?usp=sharing
