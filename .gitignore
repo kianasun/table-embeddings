@@ -1,0 +1,6 @@
+*.png
+data/
+embeddings/
+**/__pycache__/**
+.idea/
+*.zip
